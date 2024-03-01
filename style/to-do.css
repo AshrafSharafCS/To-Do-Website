@@ -1,0 +1,39 @@
+.add {
+  background-color: rgb(156, 5, 5);
+  border: 2px solid black;
+  align-items: center;
+  height: 80vh;
+  width: 600px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.input-section {
+  height: 20%;
+  width: 100%;
+  align-items: center;
+  justify-content: space-around;
+}
+.add-btn {
+  width: 50px;
+  background-color: rgb(255, 174, 0);
+}
+.remove-btn {
+  width: 70px;
+  background-color: rgb(255, 174, 0);
+}
+
+.input-text {
+  background-color: rgb(255, 174, 0);
+}
+.output-section {
+  height: 80%;
+  width: 100%;
+  justify-content: start;
+}
+.todo-output {
+  align-items: center;
+  justify-content: space-around;
+}
+
+
