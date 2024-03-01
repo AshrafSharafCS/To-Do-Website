@@ -1,0 +1,18 @@
+.login {
+  background-color: rgb(156, 5, 5);
+  border: 2px solid black;
+  justify-content: space-around;
+  align-items: center;
+  height: 200px;
+  width: 400px;
+  margin-top: 100px;
+}
+.inputs {
+  color: rgb(255, 174, 0);
+  justify-content: space-between;
+  width: 70%;
+}
+.btn {
+  background-color: rgb(255, 174, 0);
+  padding: 7px;
+}
